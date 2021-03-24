@@ -1,16 +1,28 @@
-# whatsapp
+# Clone do WhatsApp
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/chenrilima/whatsapp/blob/master/LICENSE) 
 
-A new Flutter application.
 
-## Getting Started
+# Sobre o projeto
 
-This project is a starting point for a Flutter application.
+O Clone do WhatsApp é uma aplicação mobile que está sendo construída durante o Curso de Flutter realizado na **Plataforma Udemy** (https://udemy.com).
 
-A few resources to get you started if this is your first Flutter project:
+A aplicação consiste em criar um clone do **WhatsApp** utilizando como backend o **Firebase**, nele será possível conversar, listar contatos, criar contatos, criar conta para ter acesso as funcionalidades. 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Layout mobile
+![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
+
+
+# Tecnologias utilizadas
+## Back end
+- Dart
+- Firebase
+## Front end
+- Flutter
+
+# Autor
+
+Carlos Henrique Lima de Souza
+
+https://www.linkedin.com/in/carlos-henrique-b07192a7/
+
