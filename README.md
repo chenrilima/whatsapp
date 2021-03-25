@@ -10,8 +10,9 @@ A aplicação consiste em criar um clone do **WhatsApp** utilizando como backend
 
 
 ## Layout mobile
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
+![Screenshot from 2021-03-25 05-05-35](https://user-images.githubusercontent.com/58492693/112439421-d7481b00-8d27-11eb-8bb9-f23f9592075f.png) ![Screenshot from 2021-03-25 05-05-51](https://user-images.githubusercontent.com/58492693/112439460-e4650a00-8d27-11eb-8f82-8746dcabdb46.png)
 
+![Screenshot from 2021-03-25 05-05-13](https://user-images.githubusercontent.com/58492693/112439500-ef1f9f00-8d27-11eb-9cb3-7a5747f6d20a.png) ![Screenshot from 2021-03-25 05-05-22](https://user-images.githubusercontent.com/58492693/112439516-f646ad00-8d27-11eb-8a3f-c66dad4dd144.png)
 
 # Tecnologias utilizadas
 ## Back end
